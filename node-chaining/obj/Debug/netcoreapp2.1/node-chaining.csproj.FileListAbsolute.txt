@@ -1,0 +1,11 @@
+C:\code-personal\data-structures-training\node-chaining\bin\Debug\netcoreapp2.1\node-chaining.deps.json
+C:\code-personal\data-structures-training\node-chaining\bin\Debug\netcoreapp2.1\node-chaining.runtimeconfig.json
+C:\code-personal\data-structures-training\node-chaining\bin\Debug\netcoreapp2.1\node-chaining.runtimeconfig.dev.json
+C:\code-personal\data-structures-training\node-chaining\bin\Debug\netcoreapp2.1\node-chaining.dll
+C:\code-personal\data-structures-training\node-chaining\bin\Debug\netcoreapp2.1\node-chaining.pdb
+C:\code-personal\data-structures-training\node-chaining\obj\Debug\netcoreapp2.1\node-chaining.csprojAssemblyReference.cache
+C:\code-personal\data-structures-training\node-chaining\obj\Debug\netcoreapp2.1\node-chaining.csproj.CoreCompileInputs.cache
+C:\code-personal\data-structures-training\node-chaining\obj\Debug\netcoreapp2.1\node-chaining.AssemblyInfoInputs.cache
+C:\code-personal\data-structures-training\node-chaining\obj\Debug\netcoreapp2.1\node-chaining.AssemblyInfo.cs
+C:\code-personal\data-structures-training\node-chaining\obj\Debug\netcoreapp2.1\node-chaining.dll
+C:\code-personal\data-structures-training\node-chaining\obj\Debug\netcoreapp2.1\node-chaining.pdb
