@@ -1,0 +1,11 @@
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/obj/Debug/netcoreapp2.1/LinkedListTrain.csprojAssemblyReference.cache
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/obj/Debug/netcoreapp2.1/LinkedListTrain.csproj.CoreCompileInputs.cache
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/obj/Debug/netcoreapp2.1/LinkedListTrain.AssemblyInfoInputs.cache
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/obj/Debug/netcoreapp2.1/LinkedListTrain.AssemblyInfo.cs
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/bin/Debug/netcoreapp2.1/LinkedListTrain.deps.json
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/bin/Debug/netcoreapp2.1/LinkedListTrain.runtimeconfig.json
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/bin/Debug/netcoreapp2.1/LinkedListTrain.runtimeconfig.dev.json
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/bin/Debug/netcoreapp2.1/LinkedListTrain.dll
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/bin/Debug/netcoreapp2.1/LinkedListTrain.pdb
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/obj/Debug/netcoreapp2.1/LinkedListTrain.dll
+/Users/mbeesley/code/personal/data-structures-training/LinkedListTrain/obj/Debug/netcoreapp2.1/LinkedListTrain.pdb
