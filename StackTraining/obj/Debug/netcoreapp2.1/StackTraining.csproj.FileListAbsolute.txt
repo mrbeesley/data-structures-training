@@ -9,3 +9,14 @@
 /Users/mbeesley/code/personal/data-structures-training/StackTraining/bin/Debug/netcoreapp2.1/StackTraining.pdb
 /Users/mbeesley/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.dll
 /Users/mbeesley/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.pdb
+/home/michael/code/personal/data-structures-training/StackTraining/bin/Debug/netcoreapp2.1/StackTraining.deps.json
+/home/michael/code/personal/data-structures-training/StackTraining/bin/Debug/netcoreapp2.1/StackTraining.runtimeconfig.json
+/home/michael/code/personal/data-structures-training/StackTraining/bin/Debug/netcoreapp2.1/StackTraining.runtimeconfig.dev.json
+/home/michael/code/personal/data-structures-training/StackTraining/bin/Debug/netcoreapp2.1/StackTraining.dll
+/home/michael/code/personal/data-structures-training/StackTraining/bin/Debug/netcoreapp2.1/StackTraining.pdb
+/home/michael/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.csprojAssemblyReference.cache
+/home/michael/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.csproj.CoreCompileInputs.cache
+/home/michael/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.AssemblyInfoInputs.cache
+/home/michael/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.AssemblyInfo.cs
+/home/michael/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.dll
+/home/michael/code/personal/data-structures-training/StackTraining/obj/Debug/netcoreapp2.1/StackTraining.pdb
