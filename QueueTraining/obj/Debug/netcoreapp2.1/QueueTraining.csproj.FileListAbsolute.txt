@@ -1,0 +1,11 @@
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/obj/Debug/netcoreapp2.1/QueueTraining.csprojAssemblyReference.cache
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/obj/Debug/netcoreapp2.1/QueueTraining.csproj.CoreCompileInputs.cache
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/obj/Debug/netcoreapp2.1/QueueTraining.AssemblyInfoInputs.cache
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/obj/Debug/netcoreapp2.1/QueueTraining.AssemblyInfo.cs
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/bin/Debug/netcoreapp2.1/QueueTraining.deps.json
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/bin/Debug/netcoreapp2.1/QueueTraining.runtimeconfig.json
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/bin/Debug/netcoreapp2.1/QueueTraining.runtimeconfig.dev.json
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/bin/Debug/netcoreapp2.1/QueueTraining.dll
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/bin/Debug/netcoreapp2.1/QueueTraining.pdb
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/obj/Debug/netcoreapp2.1/QueueTraining.dll
+/Users/mbeesley/code/personal/data-structures-training/QueueTraining/obj/Debug/netcoreapp2.1/QueueTraining.pdb
