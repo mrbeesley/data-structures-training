@@ -1,4 +1,4 @@
-namespace DoubleLinkedLIst
+namespace DoubleLinkedList
 {
     public class LinkedListNode<T>
     {

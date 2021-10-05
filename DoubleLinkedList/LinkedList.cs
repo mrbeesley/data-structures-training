@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace DoubleLinkedLIst
+namespace DoubleLinkedList
 {
     public class LinkedList<T> : ICollection<T>, IEnumerable<T>
     {

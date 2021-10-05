@@ -1,0 +1,11 @@
+C:\Code\personal\data-structures-training\BinaryTreeTraining\bin\Debug\netcoreapp2.1\BinaryTreeTraining.deps.json
+C:\Code\personal\data-structures-training\BinaryTreeTraining\bin\Debug\netcoreapp2.1\BinaryTreeTraining.runtimeconfig.json
+C:\Code\personal\data-structures-training\BinaryTreeTraining\bin\Debug\netcoreapp2.1\BinaryTreeTraining.runtimeconfig.dev.json
+C:\Code\personal\data-structures-training\BinaryTreeTraining\bin\Debug\netcoreapp2.1\BinaryTreeTraining.dll
+C:\Code\personal\data-structures-training\BinaryTreeTraining\bin\Debug\netcoreapp2.1\BinaryTreeTraining.pdb
+C:\Code\personal\data-structures-training\BinaryTreeTraining\obj\Debug\netcoreapp2.1\BinaryTreeTraining.csprojAssemblyReference.cache
+C:\Code\personal\data-structures-training\BinaryTreeTraining\obj\Debug\netcoreapp2.1\BinaryTreeTraining.csproj.CoreCompileInputs.cache
+C:\Code\personal\data-structures-training\BinaryTreeTraining\obj\Debug\netcoreapp2.1\BinaryTreeTraining.AssemblyInfoInputs.cache
+C:\Code\personal\data-structures-training\BinaryTreeTraining\obj\Debug\netcoreapp2.1\BinaryTreeTraining.AssemblyInfo.cs
+C:\Code\personal\data-structures-training\BinaryTreeTraining\obj\Debug\netcoreapp2.1\BinaryTreeTraining.dll
+C:\Code\personal\data-structures-training\BinaryTreeTraining\obj\Debug\netcoreapp2.1\BinaryTreeTraining.pdb

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "ProjectFilePath": "c:\\code-personal\\data-structures-training\\LinkedListTrain\\LinkedListTrain.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
@@ -11,4 +12,10 @@
       }
     ]
   }
+=======
+  "ProjectFilePath": "c:\\Code\\personal\\data-structures-training\\LinkedListTrain\\LinkedListTrain.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": null
+>>>>>>> 3ff24dd319153cb004028a0a82da5af1ecd9eada
 }

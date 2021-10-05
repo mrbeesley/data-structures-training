@@ -1,14 +1,10 @@
 {
+<<<<<<< HEAD
   "ProjectFilePath": "c:\\code-personal\\data-structures-training\\node-chaining\\node-chaining.csproj",
+=======
+  "ProjectFilePath": "c:\\Code\\personal\\data-structures-training\\node-chaining\\node-chaining.csproj",
+>>>>>>> 3ff24dd319153cb004028a0a82da5af1ecd9eada
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }

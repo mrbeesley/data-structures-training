@@ -1,0 +1,11 @@
+C:\Code\personal\data-structures-training\HashTableTraining\bin\Debug\netcoreapp2.1\HashTableTraining.deps.json
+C:\Code\personal\data-structures-training\HashTableTraining\bin\Debug\netcoreapp2.1\HashTableTraining.runtimeconfig.json
+C:\Code\personal\data-structures-training\HashTableTraining\bin\Debug\netcoreapp2.1\HashTableTraining.runtimeconfig.dev.json
+C:\Code\personal\data-structures-training\HashTableTraining\bin\Debug\netcoreapp2.1\HashTableTraining.dll
+C:\Code\personal\data-structures-training\HashTableTraining\bin\Debug\netcoreapp2.1\HashTableTraining.pdb
+C:\Code\personal\data-structures-training\HashTableTraining\obj\Debug\netcoreapp2.1\HashTableTraining.csprojAssemblyReference.cache
+C:\Code\personal\data-structures-training\HashTableTraining\obj\Debug\netcoreapp2.1\HashTableTraining.csproj.CoreCompileInputs.cache
+C:\Code\personal\data-structures-training\HashTableTraining\obj\Debug\netcoreapp2.1\HashTableTraining.AssemblyInfoInputs.cache
+C:\Code\personal\data-structures-training\HashTableTraining\obj\Debug\netcoreapp2.1\HashTableTraining.AssemblyInfo.cs
+C:\Code\personal\data-structures-training\HashTableTraining\obj\Debug\netcoreapp2.1\HashTableTraining.dll
+C:\Code\personal\data-structures-training\HashTableTraining\obj\Debug\netcoreapp2.1\HashTableTraining.pdb

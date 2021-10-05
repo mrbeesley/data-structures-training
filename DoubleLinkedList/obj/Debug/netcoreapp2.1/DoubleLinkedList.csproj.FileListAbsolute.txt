@@ -1,0 +1,11 @@
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/bin/Debug/netcoreapp2.1/DoubleLinkedList.deps.json
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/bin/Debug/netcoreapp2.1/DoubleLinkedList.runtimeconfig.json
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/bin/Debug/netcoreapp2.1/DoubleLinkedList.runtimeconfig.dev.json
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/bin/Debug/netcoreapp2.1/DoubleLinkedList.dll
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/bin/Debug/netcoreapp2.1/DoubleLinkedList.pdb
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/obj/Debug/netcoreapp2.1/DoubleLinkedList.csprojAssemblyReference.cache
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/obj/Debug/netcoreapp2.1/DoubleLinkedList.csproj.CoreCompileInputs.cache
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/obj/Debug/netcoreapp2.1/DoubleLinkedList.AssemblyInfoInputs.cache
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/obj/Debug/netcoreapp2.1/DoubleLinkedList.AssemblyInfo.cs
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/obj/Debug/netcoreapp2.1/DoubleLinkedList.dll
+/Users/mbeesley/code/personal/data-structures-training/DoubleLinkedList/obj/Debug/netcoreapp2.1/DoubleLinkedList.pdb
